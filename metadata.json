@@ -1,0 +1,6 @@
+
+{
+  "name": "Workouts Logger",
+  "description": "A React application to track YouTube fitness video workouts, featuring a calendar view, log entry, and reminder notifications.",
+  "requestFramePermissions": []
+}
